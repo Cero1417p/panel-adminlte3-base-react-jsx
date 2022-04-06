@@ -1,4 +1,4 @@
-Panel admin lt3 - react 
+Panel AdminLTE3 con ReactJSX 
 
 redux-thunk
 
